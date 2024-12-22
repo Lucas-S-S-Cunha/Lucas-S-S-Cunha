@@ -1,5 +1,5 @@
 <h1>Olá! Meu nome é Lucas!</h1>
-<h2>Webdev Fullstack de 15 anos com 1 ano de ecperiência em código prático</h2>
+<h2>Webdev Fullstack de 15 anos com 1 ano de experiência em código prático</h2>
 <br>
 <br>
 <br>
