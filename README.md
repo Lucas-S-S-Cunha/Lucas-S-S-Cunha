@@ -68,7 +68,8 @@
      flex-wrap="wrap"
      justify-content="center"
      alighn-items="center"
-     >
+     width="100%"
+  >
 
    
   <img 
